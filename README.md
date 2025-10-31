@@ -2,19 +2,12 @@ Math 5750/6880: Mathematics of Data Science
 Project 3  
 Fall 2025
 
-### Copy this template repository.
-
-Click  
-> Use this template → create a new repository 
-
-and copy this template repository. Make your new repository is public so that I can see it.  
-
 
 ### Open the Jupyter notebook project3.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/math-data-science-course/Project3/blob/main/project3.ipynb)
+https://colab.research.google.com/github/bodePacker/Math-for-DS-A3/blob/main/project3.ipynb)
 
 *Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
 https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project3.ipynb
